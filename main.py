@@ -5,7 +5,7 @@ DEFAULT_ATTACK: int = 5
 DEFAULT_DEFENCE: int = 10
 DEFAULT_STAMINA: int = 80
 
-# какой-то комментарий
+
 class Character:
     BRIEF_DESC_CHAR_CLASS: str = 'отважный любитель приключений'
     RANGE_VALUE_ATTACK: tuple[int, int] = (1, 3,)
